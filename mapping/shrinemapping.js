@@ -22,7 +22,7 @@ module.exports = [
       { serial: [{ nbr: 0, from: 120, to: 126 }] }, // hand - rainbow
       { serial: [{ nbr: 0, from: 241, to: 255 }] }, // hand
       { serial: [{ nbr: 0, from: 372, to: 383 }] }, // hand
-      { serial: [{ nbr: 0, from: 504, to: 510 }] } // hand
+      { serial: [{ nbr: 0, from: 498, to: 510 }] } // hand
     ]
   },
   {
@@ -99,12 +99,12 @@ module.exports = [
       { serial: [{ nbr: 0, from: 411, to: 447 }] }, // hinten 2
 
       { serial: [{ nbr: 0, from: 448, to: 460 }] }, // mitte 1
-      { serial: [{ nbr: 0, from: 461, to: 479 }] }, // mitte 2
+      { serial: [{ nbr: 0, from: 461, to: 478 }] }, // mitte 2
 
-      { serial: [{ nbr: 0, from: 480, to: 486 }] }, // leer
+      { serial: [{ nbr: 0, from: 479, to: 479 }] }, // leer
 
-      { serial: [{ nbr: 0, from: 487, to: 495 }] }, // oben 1
-      { serial: [{ nbr: 0, from: 496, to: 503 }] }
+      { serial: [{ nbr: 0, from: 480, to: 488 }] }, // oben 1
+      { serial: [{ nbr: 0, from: 489, to: 497 }] }
 
       // oben 2
 
